@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Triva with animation</string>
+    <string name="title">Trivia</string>
+    <string name="true_buttonText">True</string>
+    <string name="false_buttonText">False</string>
+    <string name="prev_button">Previous Button</string>
+    <string name="next_button">Next Button</string>
+    <string name="question_counter">0 of 100</string>
+    <string name="sample_question">You will see your question here...</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="heighest_score">Heighest Score</string>
+    <string name="current_score">Current Score</string>
+
+</resources>

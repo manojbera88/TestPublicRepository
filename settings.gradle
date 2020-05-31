@@ -1,0 +1,2 @@
+rootProject.name='Triva with animation'
+include ':app'
